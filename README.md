@@ -25,3 +25,10 @@ please check out the branch browser.
 video by using the branch browser.
 please check out the branch browser.
 5th commit
+
+or check out the changes that were made in each video by using the branch browser.
+please check out the branch browser.
+video by using the branch browser.
+please check out the branch browser.
+what is the branch browser?
+6th commit
